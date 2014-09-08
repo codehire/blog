@@ -1,9 +1,16 @@
+/* TODO: Move these two a mixins partial */
 @mixin enlarge-hover {
   &:hover {
     -ms-transform: scale(2,4); /* IE 9 */
     -webkit-transform: scale(2,4); /* Chrome, Safari, Opera */
     transform: scale(1.05, 1.05);
   }
+}
+
+@mixin curvy-border($size) {
+  -webkit-border-radius: $size;
+  -moz-border-radius: $size;
+  border-radius: $size;
 }
 
 header[role=banner] .navbar {
@@ -28,6 +35,13 @@ header[role=banner] .navbar {
   }
 
   .container {
+    a.navbar-brand {
+      em {
+        color: $cdr-yellow;
+        font-style: normal;
+      }
+    }
+
     ul {
       li {
         height: 50px;
