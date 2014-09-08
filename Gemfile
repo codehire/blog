@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-group :development do
+group :development, :production do
   gem 'rake', '~> 10.0'
   gem 'jekyll', '~> 2.0'
   gem 'octopress-hooks', '~> 2.2'
@@ -17,3 +17,6 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.4.2'
+gem 'capistrano'
+gem 'capistrano-rvm', '~> 0.1.1'
+gem 'capistrano-bundler', '~> 1.1.3'
