@@ -1,0 +1,30 @@
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}{% include head.html %}
+  <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
+    <div id="wrap">
+      <header role="banner">
+        {% include navigation.html %}
+      </header>
+      <div id="main" class="container">
+
+        <div class="row" id="shout-out">
+          <div class="col-md-2">
+            <a href="/"><img src="/images/chlogo.png"></a>
+          </div>
+          <div class="col-md-8">
+            <h1>{{site.title}}</h1>
+            <h2>{{site.subtitle}}</h2>
+          </div>
+          <div class="col-md-2">
+
+          </div>
+        </div>
+
+        <div id="content">
+          {{ content | expand_urls: root_url }}
+        </div>
+      </div>
+      <footer role="contentinfo">{% include footer.html %}</footer>
+      {% include after_footer.html %}
+    </div>
+  </body>
+</html>

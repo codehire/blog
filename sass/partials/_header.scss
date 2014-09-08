@@ -1,0 +1,49 @@
+@mixin enlarge-hover {
+  &:hover {
+    -ms-transform: scale(2,4); /* IE 9 */
+    -webkit-transform: scale(2,4); /* Chrome, Safari, Opera */
+    transform: scale(1.05, 1.05);
+  }
+}
+
+header[role=banner] .navbar {
+  line-height: 50px;
+  background: $cdr-dgrey;
+
+  a {
+    color: $cdr-lgrey;
+    &.navbar-brand {
+      color: $cdr-blue;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+
+    /* fix email / rss icon for bootstrap navbar */
+    &.subscribe-rss, &.subscribe-email {
+      padding-top: 0.9em;
+      padding-bottom: 0.9em;
+    }
+  }
+
+  .container {
+    ul {
+      li {
+        height: 50px;
+        padding: 0;
+        margin: 0;
+
+        img {
+          @include enlarge-hover;
+        }
+
+        &.logo {
+          img {
+            padding: 0 0 3px 15px;
+          }
+        }
+      }
+    }
+  }
+}

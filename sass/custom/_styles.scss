@@ -1,0 +1,77 @@
+/* nice sticky footer, from http://getbootstrap.com/examples/sticky-footer/ */
+html, body {
+    height: 100%;
+    /* The html and body elements cannot have any padding or margin. */
+}
+/* Wrapper for page content to push down footer */
+#wrap {
+  background: url("/images/bg-pattern.png") repeat scroll 0 0 hsl(200, 70%, 35%);
+  -moz-box-shadow: rgba(30, 51, 71, 0.3) 0px -5px 8px 0px inset;
+  -webkit-box-shadow: rgba(30, 51, 71, 0.3) 0px -5px 8px 0px inset;
+  box-shadow: rgba(30, 51, 71, 0.3) 0px -5px 8px 0px inset;
+  max-height: 550px;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+footer[role=contentinfo] {
+  height: 60px;
+}
+
+#content {
+  background: $base3;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  box-shadow: rgba(50,50,50,0.5) 0px 5px 5px 0px;
+}
+
+aside.sidebar {
+  margin-top: 20px;
+
+  .panel-body {
+    figcaption.row {
+      margin: 1em 0 0 0;
+      position: relative;
+
+      div.pill {
+        float:left;
+        height: 40px;
+
+        &.last {
+          width: auto;
+          margin-left: 38px;
+          position: absolute;
+        }
+      }
+    }
+  }
+}
+
+article {
+  header.page-header {
+    margin-top: 20px;
+  }
+}
+
+footer {
+  .container {
+    #footer-content {
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-top: 20px;
+    }
+  }
+}
+
+.twitter-timeline {
+  display: block;
+  padding-bottom: 15px;
+  width:100%;
+  @media only screen and (max-width: 992px) {
+  //  display: none;
+  }
+}

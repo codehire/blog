@@ -1,0 +1,63 @@
+@import "base/typography";
+
+body {
+  font-family: $sans;
+}
+
+h1, h2, h3 {
+  font-family: $sans;
+
+  a {
+    color: $cdr-blue;
+  }
+}
+
+h1 {
+  margin-top: 32px;
+  margin-bottom: 6px;
+  font-weight: bold;
+
+  @media only screen and (max-width : 480px) {
+    font-size: 26px;
+  }
+}
+
+h2, h3 {
+  font-weight: 300;
+  font-style: italic;
+  margin-top: 5px;
+
+  @media only screen and (max-width : 480px) {
+    font-size: 20px;
+  }
+}
+
+a.twitter-timeline {
+  font-style: $sans;
+}
+
+.entry-content {
+    font-size: 14px;
+    @media only screen and (min-width: 768px) {
+        font-size: 16px;
+    }
+}
+
+q {
+    font-style: italic;
+    &:before {
+        content: "\201C";
+    }
+    &:after {
+        content: "\201D";
+    }
+}
+
+
+#shout-out {
+  h1, h2 {
+    color: $white;
+    text-shadow: 2px 2px 2px rgba(150, 150, 150, 0.8);
+  }
+}
+
