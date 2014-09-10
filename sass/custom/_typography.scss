@@ -78,8 +78,20 @@ q {
     }
   }
 
+  h1 {
+    span {
+      font-size: 0.5em;
+      font-weight: 300 !important;
+      margin-left: -5px;
+      color: $cdr-dgrey;
+    }
+
+    margin-bottom: 0;
+    padding: 0;
+  }
+
   h2 {
-    margin-top: 0.1em;
+    margin-top: 0;
   }
 
   @media only screen and (max-width : 680px) {

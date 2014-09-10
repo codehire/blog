@@ -65,9 +65,22 @@ aside.sidebar {
     float: left;
     height: 150px;
 
+    @media only screen and (max-width : 480px) {
+      img {
+        width: 80px;
+      }
+    }
+
     &.last {
       position: absolute;
-      margin-left: 160px;
+
+      @media only screen and (max-width : 480px) {
+        margin-left: 85px;
+      }
+
+      @media only screen and (min-width : 480px) {
+        margin-left: 160px;
+      }
     }
 
     h2 {
