@@ -58,6 +58,12 @@ aside.sidebar {
   }
 }
 
+.header {
+  .header-right {
+    padding-bottom: 8px;
+  }
+}
+
 #shout-out {
   position: relative;
 
@@ -99,7 +105,7 @@ aside.sidebar {
   border: solid #fff 1px;
   font-family: $sans;
   width: 100%;
-  height: 135px;
+  min-height: 135px;
   background-color: rgba(45, 44, 44, 0.2);
   @include curvy-border(8px); 
 
