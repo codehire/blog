@@ -1,0 +1,96 @@
+body {
+  background: red !important;
+}
+
+::selection {
+  background: hsl(5, 80%, 65%);
+  color: white;
+}
+
+::-moz-selection {
+  background: hsl(5, 80%, 65%);
+  color: white;
+}
+
+::-webkit-input-placeholder {
+   color: hsl(0, 0%, 73%);
+   font-style: italic;
+   letter-spacing: 1px;
+}
+
+::-moz-placeholder {
+   color: hsl(0, 0%, 73%);
+   font-style: italic;
+   letter-spacing: 1px;
+}
+
+:-ms-input-placeholder {
+   color: hsl(0, 0%, 73%);
+   font-style: italic;
+   letter-spacing: 1px;
+}
+
+.wrapper--input {
+  margin: 2em 0 0 0;
+  max-width: 28em;
+  position: relative;
+}
+
+.wrapper--input:hover .btn--submit {
+  background: hsl(7, 85%, 60%);
+}
+
+.wrapper--input:hover .input--email {
+  border-color: hsl(7, 85%, 60%);
+}
+
+.btn--submit,
+.input--email {
+  font-size: 105%;
+  height: 3.5em;
+  line-height: 3.5em;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+
+.btn--submit {
+  -webkit-border-radius: 0 3px 3px 0;
+  -moz-border-radius: 0 3px 3px 0;
+  border-radius: 0 3px 3px 0;
+  background: hsl(5, 80%, 65%);
+  border: 0;
+  color: white;
+  font-weight: normal;
+  letter-spacing: 2px;
+  padding: 0 1em;
+  position: absolute;
+  text-transform: uppercase;
+  top: 0;
+  right: 0;
+}
+
+.btn--submit:active {
+  outline: none;
+  -webkit-transform: translateX(-2px);
+}
+
+.input--email {
+  border: 2px solid hsl(5, 80%, 65%);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  display: block;
+  font-weight: 300;
+  padding: 0 1em;
+  width: 100%;
+}
+
+.input--email:focus {
+  outline: 0;
+  border-width: 4px;
+}
+
+
