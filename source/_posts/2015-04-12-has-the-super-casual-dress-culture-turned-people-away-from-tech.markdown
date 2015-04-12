@@ -4,6 +4,7 @@ title: "Has the super casual dress culture turned people away from tech?"
 date: 2015-04-12 21:57:04 +1000
 comments: true
 categories: [Culture, Business, Diversity]
+author: Dan Draper
 ---
 
 ![Nerds](/images/nerds.jpg)
