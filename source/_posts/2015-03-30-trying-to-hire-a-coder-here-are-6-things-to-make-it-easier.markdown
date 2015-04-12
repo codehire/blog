@@ -3,7 +3,8 @@ layout: post
 title: "Trying to hire a coder? Here are 6 things to make it easier"
 date: 2015-03-30 10:46:26 +1100
 comments: true
-categories: 
+categories: [Business, Culture, Hiring] 
+author: Dan Draper
 ---
 
 ![Hiring](/images/hiring.jpg)
