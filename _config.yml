@@ -15,7 +15,7 @@ description: The Official Codehire Blog. Connecting Coders and Companies.
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /blog/atom.xml
+subscribe_rss: /runtime/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email: dan@codehire.com
@@ -25,10 +25,10 @@ email: dan@codehire.com
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /blog
+root: /runtime
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public/blog
+destination: public/runtime
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
