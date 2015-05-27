@@ -8,6 +8,8 @@ categories:
 
 > Australia's Prime Minister seems to think that coding is a big waste of time. Unfortunately, this attitude is endemic in much of the conservative side of politics and only worsens the crippling skills shortage already faced by the technology sector.
 
+![](http://resources2.news.com.au/images/2013/10/26/1226747/212922-89c1f502-3d72-11e3-a7a8-fd7949ba8dc3.jpg)
+
 Last week, opposition leader Bill Shorten [announced](http://www.itnews.com.au/News/404041,shorten-wants-all-school-kids-to-learn-to-code.aspx) that if the Labor party should win government they would introduce coding and digital technologies training in Primary Schools as a "national priority".
 With a changing workforce and jobs landscape the world is facing a skills shortage in the technology sector the likes of which we have never seen. According to code.org, in the US alone only 400,000 of the 1.5 million new technology jobs by 2020 will be filled.
 
