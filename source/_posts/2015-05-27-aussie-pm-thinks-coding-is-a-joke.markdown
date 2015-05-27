@@ -5,6 +5,7 @@ date: 2015-05-27 21:05:26 +1000
 comments: true
 categories: 
 cover: /images/abbott.jpg
+author: Dan Draper
 ---
 
 > Australia's Prime Minister seems to think that coding is a big waste of time. Unfortunately, this attitude is endemic in much of the conservative side of politics and only worsens the crippling skills shortage already faced by the technology sector.
