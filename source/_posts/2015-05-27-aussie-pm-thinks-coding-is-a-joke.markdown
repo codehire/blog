@@ -31,6 +31,8 @@ Coding is a skill. Not everyone will become a coder but by teaching it to kids a
 
 The man who thinks that [social media is digital graffiti](http://www.theage.com.au/it-pro/government-it/tony-abbott-dismisses-social-media-as-electronic-graffiti-again-20150126-12yg26.html) doesn't understand technology nor the importance of it to the future of the global economy. That doesn't mean that every kid shouldn't have the opportunity to learn how to survive and succeed in the not-so-distant technological future.
 
+_You can follow me on [Twitter](https://twitter.com/danieldraper) or [LinkedIn](https://au.linkedin.com/in/ddraper)._
+
 Watch the video below:
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="true" data-href="https://www.facebook.com/BillShorten/videos/833963683306861/"><div class="fb-xfbml-parse-ignore"><blockquote cite="/BillShorten/videos/833963683306861/"><a href="/BillShorten/videos/833963683306861/"></a><p>In Question Time today, I asked Tony Abbott if he would commit to Labor’s plan for coding to be taught in every primary and secondary school in Australia. His answer tells you everything you need to know about Tony Abbott’s plan for skilling future generations for the jobs of the future. Only Labor has a plan for a modern, smart and fair Australia.</p>Posted by <a href="https://www.facebook.com/BillShorten">Bill Shorten MP</a> on Tuesday, May 26, 2015</blockquote></div></div>
