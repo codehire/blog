@@ -37,3 +37,14 @@ Watch the video below:
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="true" data-href="https://www.facebook.com/BillShorten/videos/833963683306861/"><div class="fb-xfbml-parse-ignore"><blockquote cite="/BillShorten/videos/833963683306861/"><a href="/BillShorten/videos/833963683306861/"></a><p>In Question Time today, I asked Tony Abbott if he would commit to Labor’s plan for coding to be taught in every primary and secondary school in Australia. His answer tells you everything you need to know about Tony Abbott’s plan for skilling future generations for the jobs of the future. Only Labor has a plan for a modern, smart and fair Australia.</p>Posted by <a href="https://www.facebook.com/BillShorten">Bill Shorten MP</a> on Tuesday, May 26, 2015</blockquote></div></div>
 
+## UPDATE Thursday May 28, 11am AEST
+
+It's worth mentioning the great organisations that are helping kids code in Australia and around the world.
+
+* [CoderDojo](https://coderdojo.com/)
+* [Code Club Australia](http://www.codeclubau.org/)
+* [Code Camp](http://www.codecamp.com.au/)
+* [Coder Factory](http://coderfactory.com)
+* [Hopscotch](http://gethopscotch.com)
+* [Girls Who Code](http://girlswhocode.com)
+* [Code Future](http://www.codefuture.org/)
