@@ -63,4 +63,4 @@ Remember though, that advertising for positions will be significantly more effec
 
 
 
-Liked this article? Consider posting a free job ad on [Codehire](http://www.codehire.com/employers)!
+Liked this article? Consider posting a job ad on [Codehire](http://www.codehire.com/employers)!
