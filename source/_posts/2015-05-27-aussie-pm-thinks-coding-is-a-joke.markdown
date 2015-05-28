@@ -50,3 +50,11 @@ It's worth mentioning the great organisations that are helping kids code in Aust
 * [Girls Programming Network](https://sites.google.com/site/girlsprogrammingnetwork/)
 * [Grok Learning](https://groklearning.com/)
 * [First Robotics Competition](https://firstaustralia.org/competitions/first-robotics-competition/)
+
+## UPDATE 2 Thursday May 28, 3pm AEST
+
+### Sign the Petition!
+
+In response to Abbott's comments (and possibly this post) a Facebook group has created a petition to get coding into Aussie schools.
+
+You can show your support by signing [here](http://www.ipetitions.com/petition/bring-coding-into-australian-schools).
