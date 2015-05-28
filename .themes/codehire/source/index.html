@@ -12,8 +12,11 @@ navbar: Home
       {% assign index = true %}
       {% for post in paginator.posts %}
       {% assign content = post.content %}
+
         <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+          {% if post.cover %}<img src="{{ post.cover }}" style="width:100%;margin-bottom:20px;margin-top:20px;" />{% endif %}
           {% include article.html %}
+          <br/>
         </article>
       {% endfor %}
     </div>
