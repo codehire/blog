@@ -48,3 +48,7 @@ It's worth mentioning the great organisations that are helping kids code in Aust
 * [Hopscotch](http://gethopscotch.com)
 * [Girls Who Code](http://girlswhocode.com)
 * [Code Future](http://www.codefuture.org/)
+* [National Computer Science School](http://ncss.edu.au/)
+* [Girls Programming Network](https://sites.google.com/site/girlsprogrammingnetwork/)
+* [Grok Learning](https://groklearning.com/)
+* [First Robotics Competition](https://firstaustralia.org/competitions/first-robotics-competition/)
