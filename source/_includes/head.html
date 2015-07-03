@@ -46,4 +46,14 @@
   <!-- Include lines below to support multiple resolutions via quality selector plugin -->
   <link rel="stylesheet" href="//flowplayer.org/drive/quality-selector.css">
   <script src="//flowplayer.org/drive/quality-selector.js"></script>
+
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/highlight.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('pre code').each(function(i, block) {
+        hljs.highlightBlock(block);
+      });
+    });
+  </script>
 </head>
