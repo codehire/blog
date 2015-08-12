@@ -1,0 +1,63 @@
+---
+layout: post
+title: "What is UX?"
+cover: /images/charbel-ux.jpg
+date: 2015-08-12 17:18:00 +1000
+author: Charbel Zeaiter
+comments: true
+categories: [UX, Learning, Guest]
+---
+
+_Editors Note: This guest post is written by Charbel Zeaiter. Charbel is the Founder of [Velvet Onion](http://velvetonion.com) and [Velvet Onion Academy](http://academy.velvetonion.com). You can also find Charbel on [Twitter](https://twitter.com/lovevelvetonion)._
+
+<hr/>
+
+_The easiest way to explain UX goes something like a recent conversation I had with Mum._
+
+*MUM*: So I can tell my friends; what do you do again? I’ve been telling them you work with 
+
+computers.
+
+*ME:* No Mum, I sometimes use a computer for work. What I do is help design products that people can use and hopefully make their lives easier.
+
+*MUM*: Oh, you’re a graphic designer, like your Brother!
+
+*ME*: Not really. I help make designers lives easier by working out what we’re building before they start designing. Like when Dad is on Facebook, he learns quickly that by tapping the “Like” button and it turning blue, he’s done something.
+
+*MUM*: Oh, you’re a computer programmer, like your Uncle!
+
+*ME*: No Mum. Think of me like an architect and things like Facebook are buildings. Before Dad retired, he’d hire an Architect who created all the plans – the sketches of how it looks, the plumbing, the electricals, the doors, the windows – everything that the builder would need to know exactly what to build. We do that, but we do it for apps and websites.
+
+*MUM*: So are you an architect?
+
+*ME*: I love you Mum
+
+...and so the conversation has been with many people for over 16 years, since I started my career in digital.
+
+*Simply put, User Experience is the process of understanding and designing to solve problems. Creating solutions for real people.*
+
+## Strategy and Research
+
+To do this in a meaningful way, we start the process – yes process – with Strategy and Research. To create something truly insightful, meaningful and useful is rarely done so in the absence of understanding. That’s what research is all about. Understanding the goals of a company and helping form a customer strategy is useless unless we also spend time understanding the goals of their customers. Meeting the people both at company and customer level is critical. 
+
+How do we do that? Glad you asked. The real gems to problem solving are found in understanding what people are currently doing in order to solve their problems. We do this using a variety of techniques from Surveys, which are quick to do and give us some useful, measurable insights through to Contextual Inquiries or field studies, which give us the opportunity to observe people in what they’re doing in the real context of where they’re doing it. 
+
+## Analysis
+
+Research is essential, but engaging stakeholders and project teams with pages of output is an impossible task. To give form to the research, we enter the analysis part of the UX process which gives us the opportunity to humanise the research. A Persona is an artefact that is becoming increasingly used in companies of every size. A persona is a fictional representation of the patterns we’ve established in the research. We use them to drive design and feature decisions, focusing the product team on creating the right solution for the Customer, (hopefully) eliminating the subjective nature out of feature decision-making. To create a meaningful persona, we use tools such as Empathy Maps and Affinity Diagrams to group similar and opposing themes, thereby forming our Personas.
+
+From there, we create Customer Journeys. Ideally these show the process in which a Customer will follow to achieve their goals. Not just a step-by-step task process, this is an important technique used to understand time, place, device and most importantly, feeling. These days, we’re increasingly using this technique to go even deeper and map the systems and internal processes that map to the Customer Journey (this is Service Design – another topic altogether).
+
+## Design
+
+Without the previous stages, if we dive straight into the design process, we’ve done so with little but assumption and experience. Assumption is dangerous and somewhat arrogant as we run the risk of designing for ourselves. Experience is equally dangerous as we run this risk of applying solutions to problems that we’ve already solved for someone else’s business, not yours.
+
+This phase gives us the opportunity to explore low fidelity concepts by putting them in front of real customers to see that we are on the right track to creating a useful, usable and meaningful solution to their needs. This is a collaborative and iterative process and is critical in establishing the fundamental Experience Principles for the product.
+
+Using low fidelity methods such as paper (yes Mum, I don’t always use a computer) allows us to adapt and refine quickly before anyone becomes attached to a particular design solution.
+
+## Production
+
+If you’ve worked with an Information Architect before, you’re likely to be familiar with this phase. This is the detailing of the concepts in the form of wireframes; the design blueprint that details the page hierarchical structures, content areas as well as the interactions between functions and pages.
+
+There’s more to what we do as a profession, so much so that there are countless books written on it, many online courses from basic to detailed and of course, &lt;plug&gt;you can now learn User Experience Design at a specialist school such as [Velvet Onion Academy](http://academy.velvetonion.com/)&lt;/plug&gt;.
