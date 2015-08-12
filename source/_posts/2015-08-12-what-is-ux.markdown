@@ -26,7 +26,7 @@ computers.
 
 *MUM*: Oh, you’re a computer programmer, like your Uncle!
 
-*ME*: No Mum. Think of me like an architect and things like Facebook are buildings. Before Dad retired, he’d hire an Architect who created all the plans – the sketches of how it looks, the plumbing, the electricals, the doors, the windows – everything that the builder would need to know exactly what to build. We do that, but we do it for apps and websites.
+*ME*: No Mum. Think of me like an architect and things like Facebook are buildings. Before Dad retired, he’d hire an Architect who created all the plans – the sketches of how it looks, the plumbing, the electricals, the doors, the windows – everything that the builder would need, to know exactly what to build. We do that, but we do it for apps and websites.
 
 *MUM*: So are you an architect?
 
