@@ -43,7 +43,14 @@ namespace :deploy do
     end
   end
 
+  task :ping do
+    on roles(:app) do
+      execute 'curl -X POST http://runtime.superfeedr.com -d "hub.mode=publish" -d "hub.url=https://codehire.com/runtime/atom.xml"'
+    end
+  end
+
   after :publishing, :restart
+  after :restart, :ping
 
   after :restart, :clear_cache do
     on roles(:web), in: :groups, limit: 3, wait: 10 do
